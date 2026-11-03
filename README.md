@@ -6,11 +6,14 @@ I'm a software developer focused on building scalable and efficient web applicat
 
 ### 🏢 Current Roles
 
-- **Full Stack Developer** at [Industria Elearning](https://industriaelearning.com) - Official Moodle Partner
+- **Full Stack Developer** at [Buen Data](https://buendata.com) - Official Moodle Partner
 - **Backend DevOps** at [ApoloAI](https://apoloinvest.com)
+- **Rising Software Engineer** at [Ntt Data](https://pe.nttdata.com)
 
 ### 🛠️ Technologies
 #### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
